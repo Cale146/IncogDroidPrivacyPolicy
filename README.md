@@ -34,6 +34,7 @@ This application does not collect any data whatsoever, so it's not possible for 
 Data Retention Policy, Managing Your Information:
 
 Again, Incognito Droid does not obtain any data or information from it's users.
+
 ======================================================================================= 
 
 Changes:
